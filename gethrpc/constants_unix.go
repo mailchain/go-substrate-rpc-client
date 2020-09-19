@@ -16,6 +16,8 @@
 
 // +build darwin dragonfly freebsd linux nacl netbsd openbsd solaris
 
+// +build cgo
+
 package rpc
 
 /*
